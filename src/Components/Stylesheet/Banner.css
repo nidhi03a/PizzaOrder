@@ -1,0 +1,20 @@
+header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 0.5rem;
+    /* height: 100vh; */
+}
+.header-img{
+     width: 100%;
+     align-self: center;
+     height: 100;
+     margin: -8px 0;
+     
+}
+h1{
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+}
+p{
+    font-weight: 500;
+}

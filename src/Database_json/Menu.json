@@ -1,0 +1,357 @@
+{
+  "Pizza":[{
+    "pname":"Veg",
+    "p_id":"P1",
+    "description":"Veg Pizza",
+    "p_img":"../../../pizza.jpg",
+    "subcategory":[
+      {
+        "id": 1,
+        "name": "Margherita Pizza",
+        "description": "The base is perfectly prepared by adding single layer of cheese over it. It is mouth-watering pizza for cheese lovers.",
+        "price": 199,
+        "img": "../../../margherita-pizza.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Golden Corn Pizza",
+        "description": "It is baked by adding cheese and corn for added flavor to pizza. Corn adds health and sweet taste to the pizza.",
+        "price": 99,
+        "img": "../../../golden-corn.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Jalapeno & Red Paprika Pizza",
+        "description": "It is baked by adding Jalapeno and Paprika with corns over the cheese layer. The base is made crunchy to give it best taste.",
+        "price": 149,
+        "img": "../../../Jalapeno-Pepper-Pizza.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Double Cheese Margherita Pizza",
+        "description": "The base is perfectly prepared by adding double layer of cheese over it. It is mouth-watering pizza for cheese lovers.",
+        "price": 199,
+        "img": "../../double-cheese.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Onion Pizza",
+        "description": "It is baked by adding thin sliced onions with coriander leaves and chili sauce over the base. Onions adds the authentic taste to the soft pizza base.",
+        "price": 99,
+        "img": "../../onion-pizza.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Crisp Capsicum & Fresh Tomato Pizza",
+        "description": "it is baked by adding finely sliced tomato and capsicum as well over the thick base of pizza. It is slightly flavored by adding finely sliced onions with garlic sauce and chili over it.",
+        "price": 100,
+        "img": "../../capsium-tomato.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Farmhouse Pizza",
+        "description": "Farmhouse itself means lots of fresh vegetables.It is baked by adding onion, capsicum, tomato and mushroom, with garlic sauce spread all over the pizza base.",
+        "price": 149,
+        "img": "../../farmhouse-pizza.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Spicy Triple Tango",
+        "description": "Spicy food lovers prefer this pizza because this is one of the spiciest pizza.It is baked by adding Jalapeno, Corn and Red Paprika over the garlic sauce spread over the base of pizza.",
+        "price": 347,
+        "img": "../../spicy-triple-tango.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Paneer Special Pizza",
+        "description": "Paneer lovers go for this pizza which is protein rich and helps in gaining weight and filling tummy.It is baked by adding finely chopped paneer cubes over the pizza base with thin sliced onions and capsicum over the base of pizza. ",
+        "price": 349,
+        "img": "../../paneer.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Herby Pizza",
+        "description": "It is baked by adding thinly sliced capsicum, Babycorn and Basil Parsley over the base to make it heathier.",
+        "price": 415,
+        "img": "../../herby-pizza.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Spicy Pizza",
+        "description": "Vegetarian pizza with lots of vegetables as toppings and spiciness. Main and key ingredient used as topping in this dish is pepper and capsicum. ",
+        "price": 347,
+        "img": "../../Veg-Spice.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Orange cheddar and mozzarella Pizza",
+        "description": "This pizza have two different cheese.It is baked by adding cheddar cheese and mozzarella over the pizza base. It makes the pizza more cheese and gives water in the mouth of pizza lovers.",
+        "price": 419,
+        "img": "../../orange.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Vegetable Loaded Pizza",
+        "description": "Vegetable loaded pizza as name indicates or signifies this pizza have lots of vegetable on its base among which baby corn is the key ingredient. This is a veg pizza which have lots of vegetables as its topping.",
+        "price": 319,
+        "img": "../../vegetable-loaded.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Mexican Green Wave Pizza",
+        "description": "It is baked by adding finely sliced tomato and capsicum as well over the thick base of pizza.It is slightly flavored by adding finely sliced onions with garlic sauce and chili over it.",
+        "price": 199,
+        "img": "../../mexican-green.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Veggie Paradise Pizza",
+        "description": "Veggie paradise pizza have different and fresh vegetables. Olive and red pepper are its key ingredients of this pizza. ",
+        "price": 374,
+        "img": "../../paradise.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Pepper Pizza",
+        "description": "5 pepper pizza have 5 types of peppers in this which makes this pizza spicy. This is a peppy pizza which have 5 different peppers. ",
+        "price": 199,
+        "img": "../../pepper-pizza.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Peppy Paneer Pizza",
+        "description": "It is baked by adding finely chopped paneer cubes over the pizza base with thin sliced onions and capsicum over the base of pizza. The base of the pizza is made thick and soft.",
+        "price": 199,
+        "img": "../../pepppy-paneer-pizza.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Veg Extravaganza",
+        "description": "This pizza is baked by adding Jalapeno, Tomatoes, onions, capsicum, Corn and Red Paprika over the garlic sauce spread over the base of pizza.",
+        "price": 300,
+        "img": "../../extravaganza.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Cloud 9 Pizza",
+        "description": "Cloud 9 Pizza as name signifies this pizza have 9 different toppings,it is baked by adding onion, capsicum, baby corn, paneer, tomato and mushroom, with garlic sauce spread all over the pizza base.",
+        "price": 419,
+        "img": "../../cloud-9.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Deluxe Veggie",
+        "description": "Deluxe veggie pizza is cooked by adding cheese and corn for added flavor to pizza. Corn adds health and sweet taste to the pizza.",
+        "price": 419,
+        "img": "../../deluxe-veggie.jpg"
+      },
+      {
+        "id": 21,
+        "name": "Mushroom Pizza",
+        "description": "This pizza is a white pizza that's covered with mozzarella cheese, goat cheese, and fresh herbs",
+        "price": 100,
+        "img": "../../Mushroom-Pizza.jpg"
+      }
+    ]
+  },
+{
+  "pname":"NonVeg",
+    "p_id":"P2",
+    "description":"NonVeg Pizza",
+    "p_img":"../../non-veg.jpg",
+    "subcategory":[
+      {
+        "id": 1,
+        "name": "Jerked Chicken Pizza",
+        "description": "Indulge in the mouth-watering flavours of spicy Jamaican jerk chicken chunks atop a cheesy pizza, baked to perfection!",
+        "price": 349,
+        "img": "../../jerk-chicken-pizza.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Pepperoni Pizza",
+        "description": "Pepperoni is a meat mixture of beef and pork that has been cured and seasoned with paprika and chili powder.",
+        "price": 199,
+        "img": "../../pepperoni.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Pepper Barbecue Chicken",
+        "description": "This bbq chicken pizza is loaded with seasoned chicken, melty mozzarella cheese, barbecue sauce, roasted jalapenos, and spiced with just the right amount of heat and flavor. A spicy food lover's dream.",
+        "price": 185,
+        "img": "../../pepper-bbq.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Peri Peri Chicken",
+        "description": "A flavoursome pairing of seasoned chicken pieces, Italian cherry tomatoes, sliced red onion & baby spinach, topped with a swirl of our addictive peri peri sauce",
+        "price": 495,
+        "img": "../../peri-peri-pizza.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Chicken Fiesta",
+        "description": "The Fiesta Chicken Pizza features a crispy, thin-crust topped with creamy garlic sauce, whole milk mozzarella, chicken raised without antibiotics, onion mix, Roma tomatoes, taco seasoning and fried onions.",
+        "price": 450,
+        "img": "../../chicken-fiesta-pizza.png"
+      },
+      {
+        "id": 6,
+        "name": "Chicken Supreme Pizza",
+        "description": "The Chicken Supreme is their take on the classic supreme offering, without that weird mystery meat they palm off as “sausage”; think seasoned chicken, pineapple, mushrooms, capsicum, red onion and spring onions.",
+        "price": 450,
+        "img": "../../chicken-supreme.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Tandoori Chicken Pizza",
+        "description": "tandoori chicken, onions, mushrooms, peppers and jalapenos. ",
+        "price": 305,
+        "img": "../../tandoori-chicken.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Chicken Tikka Pizza",
+        "description": "Everyone loves Chicken Tikka Pizza; the perfect blend of mild Indian Masalas and Italian herbs topped with cheese makes this Pizza exceptional. You can add fresh Coriander leaves to give it a distinctive Desi twist. ",
+        "price": 461,
+        "img": "../../chicken-tikka-masala-pizza.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Chicken Sausage",
+        "description": "This Italian cuisine is added with finely sliced chicken sausages, grated mozzarella cheese and pizza sauce.",
+        "price": 319,
+        "img": "../../sausage.JPG"
+      },
+      {
+        "id": 10,
+        "name": "Mexican Chicken Pizza",
+        "description": "Mexican chicken is full of flavour and works wonders with the soft pizza base and rich tomato based sauce.",
+        "price": 230,
+        "img": "../../mexican-pizza.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Chicken Corn Jalapeno",
+        "description": "It is baked with mozzarella, chicken, fresh corn and jalapeno which gives spicy flavour ",
+        "price": 249,
+        "img": "../../corn-jalapona-chicken.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Chicken Smokey Jeo",
+        "description": "This pizza is baked with smokey bbq chicken",
+        "price": 395,
+        "img": "../../smokey-joe.jpeg"
+      },
+      {
+        "id": 13,
+        "name": "Chicken Golden Delight",
+        "description": "Barbeque chicken with a topping of golden corn loaded with extra cheese",
+        "price": 199,
+        "img": "../../chicken-golden-delight.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Triple Chicken Feast",
+        "description": "A combination of BBQ chicken, kotchchi sausage meat and chicken bacon, with a layer of mozzarella & cream cheese accompanied by black olives, crunchy onions & green pepper.",
+        "price": 305,
+        "img": "../../triple-chicken-feast.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Butter Chicken Pizza ",
+        "description": "This is for butter chicken lover.An ultimate combo of classic Italian and classic Indian.Blended in butter chicken curry",
+        "price": 394,
+        "img": "../../butter-chicken.jpg"
+      }
+    ]
+},
+{
+  "pname":"Sides",
+    "p_id":"P3",
+    "description":"Sides and Dips",
+    "p_img":"../../sides.jpg",
+    "subcategory":[
+      {
+        "id": 1,
+        "name": "Garlic Bread",
+        "description": "Light, super soft bread deliciously glazed with butter, garlic and herbs.",
+        "price": 35,
+        "img": "../../sides.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Cheesy Chicken Meatballs",
+        "description": "Minced flavourful chicken rolled and cooked into deliciously tender meatballs, topped with molten cheese for a perfect quick bite!",
+        "price": 40,
+        "img": "../../cheesy-chicken-meatballs.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Potato Chill Shots",
+        "description": "Crunchy & bursting with subtle flavours, perfect for anytime binge!",
+        "price": 55,
+        "img": "../../potato-chilli-shot.JPG"
+      },
+      {
+        "id": 4,
+        "name": "Cheese Dip",
+        "description": "A Creamy molten cheesy dip to suit all your moods. Have it with a Garlic bread or just dip your finger in and relish it just like that!",
+        "price": 25,
+        "img": "../../cheese-dip.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Peri Peri Cheese Dip",
+        "description": "Flavorful and spicy cheesy dip.",
+        "price": 25,
+        "img": "../../peri-peri-dip.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Jalapeno Dip",
+        "description": "A spicy,tangy flavored cheese dip is a absolute delight.",
+        "price": 25,
+        "img": "../../Jalapeno-Cheese-Dip.jpeg"
+      },
+      {
+        "id": 7,
+        "name": "Chicken Wings",
+        "description": "Tender Chicken Wings",
+        "price": 45,
+        "img": "../../Chicken-Wing.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Panner Pocket",
+        "description": "Freshly Baked Pocket Stuffed With Flavourful Paneer,Veggies,and Smoked Texas Garlic Sauce ",
+        "price": 65,
+        "img": "../../paneer-pocket.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Chicken Pocket",
+        "description": "Freshly Baked Pocket Stuffed With Chicken,Veggies,and Smoked Texas Garlic Sauce",
+        "price": 65,
+        "img": "../../chicken-pocket.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Garlic Herb Chicken Wings ",
+        "description": "Doused with special garlic and herb glaze,these chicken wings are absolutely worth a try.",
+        "price": 74,
+        "img": "../../garlic-herb-chicken-wings.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Texas Dip",
+        "description": "Mexcian cheese dip",
+        "price": 30,
+        "img": "../../texas-dip.jpg"
+      }
+    ]
+}
+]
+}
+ 

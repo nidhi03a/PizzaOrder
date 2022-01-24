@@ -1,0 +1,45 @@
+.homeStyle{
+	padding: 25px;
+	font-size: x-large;
+	color: white;
+	margin: 5px;
+}
+.menuStyle{
+	padding: 25px;
+	font-size: x-large;
+	color: white;
+	margin: 5px;
+}
+.aboutStyle{
+	padding: 25px;
+	font-size: x-large;
+	color: white;
+	margin: 5px;
+}
+.contactStyle{
+	padding: 25px;
+	font-size: x-large;
+	color: white;
+	margin: 5px;
+}
+.cartStyle{
+	padding: 25px;
+	margin: 5px;
+}
+.logStyle{
+	         background-color: dimgrey;
+	          color: black;
+	          width: 200;
+	          display: inline;
+	          justify-content: space-between;
+	          padding: 9px 7px;
+	          outline: none;
+	          border: none;
+	          font-size: 1rem;
+	          font-weight: 400;
+	          margin-top: 3px;
+	          border-bottom-left-radius: 25px;
+	          border-bottom-right-radius: 25px;
+	          border-top-right-radius: 25px;
+	          border-top-left-radius: 25px;
+}

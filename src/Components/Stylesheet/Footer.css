@@ -1,0 +1,16 @@
+footer{
+    background-color: black;
+    color: white;
+    border-top: 1px solid black;
+    margin-top: 3rem;
+    padding: 2rem 0 ;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    position: bottom;
+}
+footer p{
+    font-weight: 500;
+    max-width: 600px;
+    margin-right: 0.5rem;
+}
