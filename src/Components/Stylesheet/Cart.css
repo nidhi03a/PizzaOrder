@@ -1,0 +1,49 @@
+.home{
+    display: flex;
+}
+.productContainer{
+    display: block;
+    width: 79%;
+    padding: 30px;
+
+    justify-content: space-around;
+}
+.filters{
+    background-color: dimgrey;
+    color: whitesmoke;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 10px;
+    height: 86vh;
+
+}
+.filters >span{
+    padding-bottom: 20px;
+}
+.title{
+    font-size: 30px;
+}
+.summary{
+    width: 30%;
+}
+
+@media(max-width: 771px){
+    .filters{
+        width: 40%;
+        padding: 10px;
+        margin: 5px;
+    }
+    .filters > span {
+        font-size: 10px;
+    }
+    .title{
+        font-size: 18px !important;
+    }
+    .productContainer{
+        width: 58%;
+        padding: 0;
+    }
+
+}

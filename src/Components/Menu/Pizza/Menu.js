@@ -12,9 +12,9 @@ const Menu = () => {
 //   alignItems="flex-start"
   rowSpacing={5}>
       {pizzaData.Pizza.map((items)=>(
-            <Grid item md={3} padding={1}>
-            <Card sx={{maxWidth:345}}
-            sx={{backgroundColor:"dimgray",borderColor:"black",borderStyle:"solid"}}>
+            <Grid item md={3} padding={1} key={items.p_id}>
+            <Card sx={{maxWidth:345}} 
+            sx={{backgroundColor:"dimgrey",borderColor:"black",borderStyle:"solid"}}>
             <CardMedia
             component="img"
             height="195"

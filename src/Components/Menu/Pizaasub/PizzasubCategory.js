@@ -22,10 +22,11 @@ const PizzasubCategory = () => {
            paddingTop={3}>
               {subCategoryData.subcategory.map((itemsSub)=>(  
                    <>
-                   <Grid item md={3}
+                   <Grid key={itemsSub.id} 
+                   item md={3}
                    padding={1}>
-                           <Card xs={{maxWidth:345}}
-                           sx={{backgroundColor:"dimgray",borderColor:"black",borderStyle:"solid"}}>
+                           <Card xs={{maxWidth:345}} 
+                           sx={{backgroundColor:"dimgrey",borderColor:"black",borderStyle:"solid"}}>
                                <CardMedia 
                                component="img"
                                height="200"

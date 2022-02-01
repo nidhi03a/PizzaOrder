@@ -99,7 +99,7 @@ export const Navibar = () => {
                   <ShoppingBagIcon sx={{ color: "white" }} fontSize='large' />
                 </StyledBadge>
               </Link>
-              
+
             </Box>
             <Search type='search'>
               <SearchIconWrapper>

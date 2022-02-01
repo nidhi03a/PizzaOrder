@@ -7,12 +7,12 @@ const Footer = () => {
         <footer>
             <p>
                 We provides best and safe quality of food. Lip-smacking delicious food at your doorstep.
-                Order anytime and anywhere. 
+                Order anytime and anywhere.
             </p>
             <p>
                 <p>
-                  All Rights Reserved. Copyright<CopyrightIcon/>2022.
-                    </p>
+                    All Rights Reserved. Copyright<CopyrightIcon />2022.
+                </p>
             </p>
         </footer>
     )
